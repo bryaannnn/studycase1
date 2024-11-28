@@ -15,7 +15,7 @@ export const Success: Story = {
     variant: 'success',
     size: 'medium',
     type: 'notification',
-    message: 'Success Messages',
+    message: 'Success Message',
     subMessage: 'Give short additional message here. Maximum 2 line.',
   },
 };
